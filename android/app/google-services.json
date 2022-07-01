@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38224153420",
+    "project_id": "rshsapps",
+    "storage_bucket": "rshsapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38224153420:android:ef13f6732690e3c82bdde9",
+        "android_client_info": {
+          "package_name": "com.example.rshsapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38224153420-cd8m2nkgu4qlqo9gidnp94t5v2nfotdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvskBqoJ6FyvXy5J7nSdTnhAete98dVh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38224153420-cd8m2nkgu4qlqo9gidnp94t5v2nfotdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
